@@ -1,3 +1,5 @@
+Forked from eea.docker.rsync to add error checking.
+
 # Simple rsync container based on alpine
 
 A simple rsync server/client Docker image to easily rsync data within Docker volumes
